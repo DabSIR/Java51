@@ -15,6 +15,9 @@ public class JavaApplication51 {
     
 }
 
+/**
+ *Room class to set up rooms with their appliances
+ */
 class Room {
     private String room_name;
 
