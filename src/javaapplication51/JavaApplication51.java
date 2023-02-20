@@ -14,3 +14,12 @@ public class JavaApplication51 {
     }
     
 }
+
+class Room {
+    private String room_name;
+
+    public Room(String room_name) {
+        this.room_name = room_name;
+    }
+    
+}
